@@ -1,10 +1,9 @@
 <div align="center" style="color: #A6C1A6;">
 
 <h1><i><b>PLANNNY</b></i></h1>
-<i>Our project concept is Plannny Solution Youth Startup.</i>
-
+<img width="250" height="250" alt="plant" src="https://github.com/user-attachments/assets/4336a6bb-abab-4966-bd8e-74dadff9f4e5" />
 <br>
-
+<i>Our project concept is Plannny Solution Youth Startup.</i>
 </div>
 
 <br>
@@ -54,11 +53,14 @@
 <br><br>
 
 ## Introduction
-**`A.P.T (AI Plant Teller)`의 핵심 가치는 *👉무인 화원 매장의 한계를 뛰어넘는 "AI 무인화원 종합 솔루션"👈* 입니다.**
-<br>
-`A.P.T` 는 단순히 식물을 추천하는 챗봇이 아니라,<br>무인 매장의 '판매 및 관리자' 역할을 24시간 대행하는 AI 기반 B2C 플랫폼입니다.<br>그리고 저희 `A.P.T`는 향후 기업간 파트너십을 맺어 B2B 솔루션을 제공하는 서비스로 확장할 목표를 가지고 있습니다.
-<br>
-**📌고객은 `A.P.T 솔루션` 을 통해 <u>최적의 구매 경험</u>을 제공받으며, 자신의 공간과 라이프스타일에 맞는 Plant을 추천받는 새로운 유형의 경험을합니다.**
+**`PLANNNY`의 핵심 가치는 *👉무인 화원 매장의 한계를 뛰어넘는 "AI 무인화원 종합 솔루션"👈* 입니다.**
+
+`PLANNNY` 는 단순히 식물을 추천하는 챗봇이 아니라,<br>무인 매장의 '판매 및 관리자' 역할을 24시간 대행하는 AI 기반 B2C 플랫폼입니다.
+<br><br>
+그리고 저희 `PLANNNY`는 향후 기업간 파트너십을 맺어 B2B 솔루션을 제공하는 서비스로 확장할 목표를 가지고 있습니다.
+<br><br>
+
+**📌고객은 `PLANNNY 솔루션` 을 통해 <u>최적의 구매 경험</u>을 제공받으며, 자신의 공간과 라이프스타일에 맞는 Plant을 추천받는 새로운 유형의 경험을합니다.**
 **📌무인화원 운영자는 인력 없이도 <u>매출 극대화</u>와 <u>운영 효율화</u>를 달성할 수 있습니다**
 
 <br><br>
@@ -70,24 +72,42 @@
 
 **`기술 목표`**
 - 사용자와의 *상호작용*을 통한 90% 이상의 정확도를 가진 *사용자 맞춤형* 무인 화원 서비스 제공
-  - <i> 상호작용: RAG 기반 질의응답 시스템 구축 </i>
-  - <i> 맞춤형: 사용자 선호도 기반 LLM 모델 학습 </i>
 
 <br><br>
 
-## Why A.P.T
+## Why PLANNNY?
 <i>무인 화원 시장의 '결정적 공백' 해소 + '플랜테리어' 기반 판매 촉진</i>
+
+### 플랜테리어 트렌드
+
+<div align="left"> 
+<img src="https://github.com/user-attachments/assets/f7a5a87f-98c8-4d62-9342-0126b2b33cd9" width="33%" alt="플랜테리어 1" style="float: left; margin: 0; padding: 0;" />
+<img src="https://github.com/user-attachments/assets/8168da8a-6099-4ea5-a45d-d61e8f76eefc" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
+<br style="clear: both;" /> 
+</div>
+
+### 반려식물 시장 규모 증가
+<div align="left"> 
+<img src="https://github.com/user-attachments/assets/e5d46340-e188-4a70-bb37-36336ddfbd88" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
+<img src="https://github.com/user-attachments/assets/4629c0e0-bfd0-4ea7-bcb7-3e043b03ddfd" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
+<br style="clear: both;" /> 
+</div>
+
+<div align="left"> 
+<img src="https://github.com/user-attachments/assets/d946391d-66ec-401e-9238-9e746c2276aa" width="50%" alt="플랜테리어 3" style="float: left; margin: 0; padding: 0;" />
+<br style="clear: both;" /> 
+</div>
 
 <br>
 
 **`1️⃣ 시장 트렌드 선점: '플랜테리어' 소비의 대중화`** 
 - **발견**: 집을 **나를 표현하는 공간'** 으로 인식하는 소비(MZ세대부터 50대 취미 생활까지)가 증가하며, 식물을 활용한 플랜테리어(Plant + Interior) 시장이 성장했습니다.
 - **문제**: 무인 매장에서는 단순히 식물 및 화분을 나열할 뿐, **우리 집 인테리어에 어울리는 Plant**과 같은 감성적인 인테리어 기반의 복합 추천을 제공하지 못합니다.
-- **A.P.T 솔루션**: 인테리어용,  선물용 등 사용자 상황에 최적화된 Plant을 추천해줌으로써, 구매 동기를 강화하고 고객 객단가를 높입니다.
+- **PLANNNY 솔루션**: 인테리어용,  선물용 등 사용자 상황에 최적화된 Plant을 추천해줌으로써, 구매 동기를 강화하고 고객 객단가를 높입니다.
 
 **`2️⃣ 구매 전환율 저해: '전문가 부재'의 한계`**
 - **문제**: 무인 매장에서는 고객이 **"내 공간, 내 상황에 키우기에 어떤 식물이 맞을까?"**라는 핵심 질문에 답을 얻을 수 없습니다. 
-- **A.P.T 솔루션**: 고객과의 상호작용과 함께 매장 내 식물 DB를 통해 맞춤 추천을 제공함으로써, 고객의 구매 결정을 즉각적으로 돕고 구매 전환율을 높입니다.
+- **PLANNNY 솔루션**: 고객과의 상호작용과 함께 매장 내 식물 DB를 통해 맞춤 추천을 제공함으로써, 고객의 구매 결정을 즉각적으로 돕고 구매 전환율을 높입니다.
 
 <br><br>
 
@@ -185,7 +205,7 @@ Pinecone DB
 
 ## 시스템 아키텍처
 <i>LLM 중심의 시스템 아키텍처입니다.</i>
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/02ada73f-68c2-4800-a1e3-34bdb062f2e2" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/139423ed-9b4f-44fc-be14-01ecdc8a7f44" />
 
 <br>
 
@@ -462,4 +482,3 @@ AI   : {
 - **`안수이`**
 - **`이상민`**
 - **`정종현`**
-- 
