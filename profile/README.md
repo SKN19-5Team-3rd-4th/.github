@@ -92,7 +92,7 @@
 ### 반려식물 시장 규모 증가
 <div align="left"> 
 <img src="https://github.com/user-attachments/assets/e5d46340-e188-4a70-bb37-36336ddfbd88" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
-<img src="https://github.com/user-attachments/assets/4629c0e0-bfd0-4ea7-bcb7-3e043b03ddfd" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
+<img src="https://github.com/user-attachments/assets/0e4a788f-5433-42dc-86d9-524ba057c606" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
 <br style="clear: both;" /> 
 </div>
 
@@ -106,17 +106,17 @@
 <br>
 
 **`1️⃣ 시장 트렌드 선점: '플랜테리어' 소비의 대중화`** 
-- **발견**: 집을 **나를 표현하는 공간'** 으로 인식하는 소비(MZ세대부터 50대 취미 생활까지)가 증가하며, 식물을 활용한 플랜테리어(Plant + Interior) 시장이 성장했습니다.
-- **문제**: 무인 매장에서는 단순히 식물 및 화분을 나열할 뿐, **우리 집 인테리어에 어울리는 Plant**과 같은 감성적인 인테리어 기반의 복합 추천을 제공하지 못합니다.
+- **발견**: 집을 나를 표현하는 공간' 으로 인식하는 소비가 증가하며, 식물을 활용한 플랜테리어(Plant + Interior) 시장이 성장했습니다.
+- **문제**: 무인 매장에서는 단순히 식물 및 화분을 나열할 뿐, 우리 집 인테리어에 어울리는 Plant과 같은 감성적인 인테리어 기반의 복합 추천을 제공하지 못합니다.
 - **PLANNNY 솔루션**: 인테리어용,  선물용 등 사용자 상황에 최적화된 Plant을 추천해줌으로써, 구매 동기를 강화하고 고객 객단가를 높입니다.
 
 **`2️⃣ 구매 전환율 저해: '전문가 부재'의 한계`**
-- **문제**: 무인 매장에서는 고객이 **"내 공간, 내 상황에 키우기에 어떤 식물이 맞을까?"**라는 핵심 질문에 답을 얻을 수 없습니다. 
+- **문제**: 무인 매장에서는 고객이 "내 공간, 내 상황에 키우기에 어떤 식물이 맞을까?"라는 핵심 질문에 답을 얻을 수 없습니다. 
 - **PLANNNY 솔루션**: 고객과의 상호작용과 함께 매장 내 식물 DB를 통해 맞춤 추천을 제공함으로써, 고객의 구매 결정을 즉각적으로 돕고 구매 전환율을 높입니다.
 
 <br><br>
 
-## Our Core Services is 
+## Our Core Service is  
 <i>고객의 구매 결정부터 사후 관리까지 책임지는 2가지 핵심 서비스</i>
 
 <br>
@@ -189,7 +189,9 @@
 |Embedding Model| ![ChatGPT](https://img.shields.io/badge/OPENAI_EMBEDDING-gray?style=for-the-badge&logo=openai&logoColor=white)|
 |Library|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)|
 |Collaboration Tool|![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-- 자율적인 의사 결정 및 반복 실행이 필요한 복잡한 에이전트 파이프라인 모듈화 및 신속한 개발을 위해 채택
+
+- 랭그래프 선정 이유
+(1) 자율적인 의사 결정 및 반복 실행이 필요한 복잡한 에이전트 파이프라인 모듈화 및 신속한 개발을 위해 채택
 
 - 파인콘 선정 이유
 Pinecone DB
