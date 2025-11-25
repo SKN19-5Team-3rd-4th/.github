@@ -86,12 +86,16 @@
 <br style="clear: both;" /> 
 </div>
 
+<br>
+
 ### 반려식물 시장 규모 증가
 <div align="left"> 
 <img src="https://github.com/user-attachments/assets/e5d46340-e188-4a70-bb37-36336ddfbd88" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
 <img src="https://github.com/user-attachments/assets/4629c0e0-bfd0-4ea7-bcb7-3e043b03ddfd" width="33%" alt="플랜테리어 2" style="float: left; margin: 0; padding: 0;" />
 <br style="clear: both;" /> 
 </div>
+
+<br>
 
 <div align="left"> 
 <img src="https://github.com/user-attachments/assets/d946391d-66ec-401e-9238-9e746c2276aa" width="50%" alt="플랜테리어 3" style="float: left; margin: 0; padding: 0;" />
